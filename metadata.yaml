@@ -1,0 +1,25 @@
+_repo: A.-W.-Kinglake--A-Biographical-and-Literary-Study_539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuckwell, William
+    birthdate: 1829
+    deathdate: 1919
+    gutenberg_agent_id: '276'
+    url: http://www.gutenberg.org/2009/agents/276
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kinglake, Alexander William, 1809-1891'
+- !lcc 'PR'
+- GITenberg
+title: 'A. W. Kinglake: A Biographical and Literary Study'
+url: http://www.gutenberg.org/ebooks/539
